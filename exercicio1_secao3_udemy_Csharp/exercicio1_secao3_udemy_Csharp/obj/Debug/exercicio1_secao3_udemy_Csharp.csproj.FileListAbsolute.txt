@@ -1,0 +1,7 @@
+C:\Users\gabri\source\repos\exercicio1_secao3_udemy_Csharp\exercicio1_secao3_udemy_Csharp\bin\Debug\exercicio1_secao3_udemy_Csharp.exe.config
+C:\Users\gabri\source\repos\exercicio1_secao3_udemy_Csharp\exercicio1_secao3_udemy_Csharp\bin\Debug\exercicio1_secao3_udemy_Csharp.exe
+C:\Users\gabri\source\repos\exercicio1_secao3_udemy_Csharp\exercicio1_secao3_udemy_Csharp\bin\Debug\exercicio1_secao3_udemy_Csharp.pdb
+C:\Users\gabri\source\repos\exercicio1_secao3_udemy_Csharp\exercicio1_secao3_udemy_Csharp\obj\Debug\exercicio1_secao3_udemy_Csharp.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\exercicio1_secao3_udemy_Csharp\exercicio1_secao3_udemy_Csharp\obj\Debug\exercicio1_secao3_udemy_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\exercicio1_secao3_udemy_Csharp\exercicio1_secao3_udemy_Csharp\obj\Debug\exercicio1_secao3_udemy_Csharp.exe
+C:\Users\gabri\source\repos\exercicio1_secao3_udemy_Csharp\exercicio1_secao3_udemy_Csharp\obj\Debug\exercicio1_secao3_udemy_Csharp.pdb
