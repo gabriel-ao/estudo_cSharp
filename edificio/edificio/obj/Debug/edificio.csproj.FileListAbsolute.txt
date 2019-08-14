@@ -1,0 +1,7 @@
+C:\Users\GABRIELALMEIDADEOLIV\source\repos\edificio\edificio\bin\Debug\edificio.exe.config
+C:\Users\GABRIELALMEIDADEOLIV\source\repos\edificio\edificio\bin\Debug\edificio.exe
+C:\Users\GABRIELALMEIDADEOLIV\source\repos\edificio\edificio\bin\Debug\edificio.pdb
+C:\Users\GABRIELALMEIDADEOLIV\source\repos\edificio\edificio\obj\Debug\edificio.csprojAssemblyReference.cache
+C:\Users\GABRIELALMEIDADEOLIV\source\repos\edificio\edificio\obj\Debug\edificio.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELALMEIDADEOLIV\source\repos\edificio\edificio\obj\Debug\edificio.exe
+C:\Users\GABRIELALMEIDADEOLIV\source\repos\edificio\edificio\obj\Debug\edificio.pdb
