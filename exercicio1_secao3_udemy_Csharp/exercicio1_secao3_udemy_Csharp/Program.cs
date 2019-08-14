@@ -50,7 +50,7 @@ namespace exercicio1_secao3_udemy_Csharp
             catch (FormatException)
             {
 
-                Console.WriteLine("favor digitar um numero");
+                Console.WriteLine("Formatação errada, fim do codigo");
             }
 
             Console.ReadKey();
