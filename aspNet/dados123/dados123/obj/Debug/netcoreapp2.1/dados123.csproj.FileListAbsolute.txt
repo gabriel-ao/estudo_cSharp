@@ -1,0 +1,11 @@
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\bin\Debug\netcoreapp2.1\dados123.deps.json
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\bin\Debug\netcoreapp2.1\dados123.runtimeconfig.json
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\bin\Debug\netcoreapp2.1\dados123.runtimeconfig.dev.json
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\bin\Debug\netcoreapp2.1\dados123.dll
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\bin\Debug\netcoreapp2.1\dados123.pdb
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\obj\Debug\netcoreapp2.1\dados123.csprojAssemblyReference.cache
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\obj\Debug\netcoreapp2.1\dados123.csproj.CoreCompileInputs.cache
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\obj\Debug\netcoreapp2.1\dados123.AssemblyInfoInputs.cache
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\obj\Debug\netcoreapp2.1\dados123.AssemblyInfo.cs
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\obj\Debug\netcoreapp2.1\dados123.dll
+C:\Users\GABRIELALMEIDADEOLIV\Documents\GitHub\estudo_cSharp\aspNet\dados123\dados123\obj\Debug\netcoreapp2.1\dados123.pdb
